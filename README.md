@@ -39,19 +39,19 @@ The implementation demonstrates how sequential data is processed over time while
 
 ### Recurrent Neural Network
 
-![RNN Architecture](recurrent-neural-networks-from-scratch/images/rnn-unrolled.png)
+![RNN Architecture](recurrent-neural-networks-from-scratch/figures/rnn-unrolled.png)
 
 ---
 
 ### RNN Cell
 
-![RNN Cell](recurrent-neural-networks-from-scratch/images/rnn-cell.png)
+![RNN Cell](recurrent-neural-networks-from-scratch/figures/rnn-cell.png)
 
 ---
 
 ### LSTM Cell
 
-![LSTM Cell](recurrent-neural-networks-from-scratch/images/lstm-cell.png)
+![LSTM Cell](recurrent-neural-networks-from-scratch/figures/lstm-cell.png)
 
 ---
 
